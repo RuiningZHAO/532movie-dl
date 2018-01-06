@@ -12,7 +12,7 @@ export PATH="~/Download/:$PATH"
 Username@Computername path/to/your/directory $ 532movie-dl
 ```
 5. Videos will be output to path/to/your/directory/Videos.
-##For Linux
+## For Linux
 1. Download the corresponding version.
 2. Decompress.
 ```
