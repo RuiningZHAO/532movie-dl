@@ -9,7 +9,7 @@ export PATH="~/Download/:$PATH"
 ```
 4. Change directory to anywhere you like and then run the script via
 ```
-Username@Computername path/to/your/directory $ 532movie-dl
+Username@Hostname path/to/your/directory $ 532movie-dl
 ```
 5. Videos will be output to `path/to/your/directory/Videos`.
 ## For Linux
@@ -25,7 +25,7 @@ export PATH="~/Download/:$PATH"
 ```
 5. Change directory to anywhere you like and then run the script via
 ```
-Username@Computername path/to/your/directory $ 532movie-dl
+Username@Hostname path/to/your/directory $ 532movie-dl
 ```
 6. Videos will be output to `path/to/your/directory/Videos`.
 ## For Windows
