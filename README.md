@@ -2,16 +2,20 @@
 A script to download videos from 532movie.bnu.edu.cn server.
 ## For MacOS
 1. Download the corresponding version.
-2. Put `532movie-dl` into an appropriate directory, e.g. `~/Download/`.
-3. Add environment variables.
+2. Rename.
+```
+mv 532movie-dl.dms 532movie-dl
+```
+3. Put `532movie-dl` into an appropriate directory, e.g. `~/Download/`.
+4. Add environment variables.
 ```
 export PATH="~/Download/:$PATH"
 ```
-4. Change directory to anywhere you like and then run the script via
+5. Change directory to anywhere you like and then run the script via
 ```
 Username@Hostname path/to/your/directory $ 532movie-dl
 ```
-5. Videos will be output to `path/to/your/directory/Videos`.
+6. Videos will be output to `path/to/your/directory/Videos`.
 ## For Linux
 1. Download the corresponding version.
 2. Decompress.
